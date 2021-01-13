@@ -79,7 +79,7 @@ const footer = (`
                 <ul class="list-unstyled">
                   <li><a href="#">Conheça o In</a></li>
                   <li><a href="#">Professores</a></li>
-                  <li><a href="#">Cursos</a></li>
+                  <li><a href="#">Portal In</a></li>
                 </ul>
               </div>
               <div class="col-lg-4 ml-auto">
