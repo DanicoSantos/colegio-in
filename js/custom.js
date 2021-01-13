@@ -84,9 +84,10 @@ const footer = (`
               </div>
               <div class="col-lg-4 ml-auto">
                 <h2 class="footer-heading mb-4">Redes sociais</h2>
-                <ul class="list-unstyled">
+               <span class="icon-facebook text-white mr-2"></span>
+               <span class="icon-instagram text-white mx-2"></span>
+               <span class="icon-twitter text-white ml-2"></span>
 
-                </ul>
               </div>
 
 
