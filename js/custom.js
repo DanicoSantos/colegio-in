@@ -15,7 +15,7 @@ const navBar = (`
       <div class="container mb-3">
         <div class="d-flex align-items-center">
           <div class="site-logo mr-auto">
-            <a href="index.html">Colégio In<span class="text-primary">.</span></a>
+            <a href="/"><img src="images/logo-1.png" width="100"/></a>
           </div>
           <div class="site-quick-contact d-none d-lg-flex ml-auto ">
             <div class="d-flex site-info align-items-center mr-5">
@@ -53,7 +53,7 @@ const navBar = (`
 
           <div class="top-social ml-auto">
             <a href="#"><span class="icon-facebook text-teal"></span></a>
-            <a href="#"><span class="icon-twitter text-success"></span></a>
+            <a href="#"><span class="icon-instagram text-success"></span></a>
             <a href="#"><span class="icon-linkedin text-yellow"></span></a>
           </div>
         </div>
@@ -77,9 +77,9 @@ const footer = (`
               <div class="col-lg-4 ml-auto">
                 <h2 class="footer-heading mb-4">Navegação</h2>
                 <ul class="list-unstyled">
-                  <li><a href="#">Conheça o In</a></li>
-                  <li><a href="#">Professores</a></li>
-                  <li><a href="#">Portal In</a></li>
+                  <li><a href="about">Conheça o In</a></li>
+                  <li><a href="team">Professores</a></li>
+                  <li><a href="/">Portal In</a></li>
                 </ul>
               </div>
               <div class="col-lg-4 ml-auto">
