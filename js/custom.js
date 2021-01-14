@@ -15,7 +15,7 @@ const navBar = (`
       <div class="container mb-3">
         <div class="d-flex align-items-center">
           <div class="site-logo mr-auto">
-            <a href="colegio-in"><img src="images/logo-negative.png" width="100"/></a>
+            <a href="/"><img src="images/logo-negative.png" width="100"/></a>
           </div>
           <div class="site-quick-contact d-none d-lg-flex ml-auto ">
             <div class="d-flex site-info align-items-center mr-5">
