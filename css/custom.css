@@ -1,3 +1,7 @@
+p {
+    font-size: 1.25rem;
+}
+
 .post-entry-1.person-1 img {
     width: 180px;
 }
@@ -24,4 +28,8 @@
 
 .bg-secondary-custom {
     background-color: #8AC6C1;
+}
+
+.site-navbar .site-navigation .site-menu > li > a:hover {
+    color: #66c6c2 !important;
 }

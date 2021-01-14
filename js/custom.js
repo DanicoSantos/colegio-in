@@ -42,7 +42,7 @@ const navBar = (`
 
           <nav class="site-navigation text-left mr-auto d-none d-lg-block" role="navigation">
             <ul class="site-menu main-menu js-clone-nav mr-auto ">
-              <li class="active"><a href="index.html" class="nav-link">Início</a></li>
+              <li class=""><a href="index.html" class="nav-link">Início</a></li>
               <li><a href="about.html" class="nav-link">Conheça o In</a></li>
               <li><a href="team.html" class="nav-link">Professores</a></li>
               <li><a href="/" class="nav-link">Portal In</a></li>
