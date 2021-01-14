@@ -1,3 +1,27 @@
 .post-entry-1.person-1 img {
     width: 180px;
 }
+
+.text-primary-custom {
+    color: #381660;
+}
+
+.text-secondary-custom {
+    color: #8AC6C1 !important;
+}
+
+.border-primary-custom {
+    border-color: #381660;
+}
+
+.border-secondary-custom {
+    border-color: #8AC6C1;
+}
+
+.bg-primary-custom {
+    background-color: #381660;
+}
+
+.bg-secondary-custom {
+    background-color: #8AC6C1;
+}

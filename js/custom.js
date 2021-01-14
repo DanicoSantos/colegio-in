@@ -15,7 +15,7 @@ const navBar = (`
       <div class="container mb-3">
         <div class="d-flex align-items-center">
           <div class="site-logo mr-auto">
-            <a href="/"><img src="images/logo-1.png" width="100"/></a>
+            <a href="colegio-in"><img src="images/logo-negative.png" width="100"/></a>
           </div>
           <div class="site-quick-contact d-none d-lg-flex ml-auto ">
             <div class="d-flex site-info align-items-center mr-5">
@@ -66,7 +66,7 @@ const navBar = (`
 const footer = (`
 <div class="row">
           <div class="col-lg-4">
-            <h2 class="footer-heading mb-3">Endereço</h2>
+            <h2 class="footer-heading text-secondary-custom mb-3">Endereço</h2>
             <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
               there live the blind texts. </p>
             <p>conta@contato.com</p>
@@ -75,7 +75,7 @@ const footer = (`
           <div class="col-lg-8 ml-auto">
             <div class="row">
               <div class="col-lg-4 ml-auto">
-                <h2 class="footer-heading mb-4">Navegação</h2>
+                <h2 class="footer-heading  mb-4 text-secondary-custom">Navegação</h2>
                 <ul class="list-unstyled">
                   <li><a href="about">Conheça o In</a></li>
                   <li><a href="team">Professores</a></li>
@@ -83,10 +83,10 @@ const footer = (`
                 </ul>
               </div>
               <div class="col-lg-4 ml-auto">
-                <h2 class="footer-heading mb-4">Redes sociais</h2>
+                <h2 class="footer-heading text-secondary-custom mb-4">Redes sociais</h2>
                <span class="icon-facebook text-white mr-2"></span>
                <span class="icon-instagram text-white mx-2"></span>
-               <span class="icon-twitter text-white ml-2"></span>
+               <span class="icon-linkedin text-white ml-2"></span>
 
               </div>
 
