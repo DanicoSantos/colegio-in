@@ -33,3 +33,7 @@ p {
 .site-navbar .site-navigation .site-menu > li > a:hover {
     color: #66c6c2 !important;
 }
+
+.package .package__title {
+    font-size: 1.5rem;
+}

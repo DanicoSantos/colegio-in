@@ -19,11 +19,11 @@ const navBar = (`
           </div>
           <div class="site-quick-contact d-none d-lg-flex ml-auto ">
             <div class="d-flex site-info align-items-center mr-5">
-              <span class="block-icon mr-3"><span class="icon-map-marker text-yellow"></span></span>
+              <span class="block-icon mr-3"><span class="icon-map-marker text-secondary-custom"></span></span>
               <span>Endereço <br> Belém - Pará</span>
             </div>
             <div class="d-flex site-info align-items-center">
-              <span class="block-icon mr-3"><span class="icon-clock-o"></span></span>
+              <span class="block-icon  mr-3"><span class="text-primary-custom icon-clock-o"></span></span>
               <span>Segunda à Sábado das 08:00h às 18:00h <br> FECHADO aos Domingos</span>
             </div>
 
@@ -52,9 +52,9 @@ const navBar = (`
           </nav>
 
           <div class="top-social ml-auto">
-            <a href="#"><span class="icon-facebook text-teal"></span></a>
-            <a href="#"><span class="icon-instagram text-success"></span></a>
-            <a href="#"><span class="icon-linkedin text-yellow"></span></a>
+            <a href="#"><span class="icon-facebook text-primary-custom"></span></a>
+            <a href="#"><span class="icon-instagram text-secondary-custom"></span></a>
+            <a href="#"><span class="icon-linkedin text-primary-custom"></span></a>
           </div>
         </div>
       </div>
