@@ -15,7 +15,7 @@ const navBar = (`
       <div class="container mb-3">
         <div class="d-flex align-items-center">
           <div class="site-logo mr-auto">
-            <a href="/"><img src="images/logo-negative.png" width="100"/></a>
+            <a href="#"><img src="images/logo-negative.png" width="80"/></a>
           </div>
           <div class="site-quick-contact d-none d-lg-flex ml-auto ">
             <div class="d-flex site-info align-items-center mr-5">
@@ -23,7 +23,7 @@ const navBar = (`
               <span>Endereço <br> Belém - Pará</span>
             </div>
             <div class="d-flex site-info align-items-center">
-              <span class="block-icon  mr-3"><span class="text-primary-custom icon-clock-o"></span></span>
+              <span class="block-icon  mr-3"><span class="text-secondary-custom icon-clock-o"></span></span>
               <span>Segunda à Sábado das 08:00h às 18:00h <br> FECHADO aos Domingos</span>
             </div>
 
@@ -45,7 +45,7 @@ const navBar = (`
               <li class=""><a href="index.html" class="nav-link">Início</a></li>
               <li><a href="about.html" class="nav-link">Conheça o In</a></li>
               <li><a href="team.html" class="nav-link">Professores</a></li>
-              <li><a href="/" class="nav-link">Portal In</a></li>
+              <li><a href="#" class="nav-link">Portal In</a></li>
 
 
             </ul>
@@ -53,7 +53,7 @@ const navBar = (`
 
           <div class="top-social ml-auto">
             <a href="#"><span class="icon-facebook text-primary-custom"></span></a>
-            <a href="#"><span class="icon-instagram text-secondary-custom"></span></a>
+            <a href="#"><span class="icon-instagram text-primary-custom"></span></a>
             <a href="#"><span class="icon-linkedin text-primary-custom"></span></a>
           </div>
         </div>
