@@ -24,7 +24,9 @@ const navBar = (`
             </div>
             <div class="d-flex site-info align-items-center">
               <span class="block-icon  mr-3"><span class="text-secondary-custom icon-clock-o"></span></span>
-              <span>Segunda à Sábado das 08:00h às 18:00h <br> FECHADO aos Domingos</span>
+              <span>Segunda à Sexta das 7h às 18h <br> 
+              Sábado das 8h às 13h<br>
+              FECHADO aos Domingos</span>
             </div>
 
           </div>
@@ -52,9 +54,11 @@ const navBar = (`
           </nav>
 
           <div class="top-social ml-auto">
-            <a href="#"><span class="icon-facebook text-primary-custom"></span></a>
-            <a href="#"><span class="icon-instagram text-primary-custom"></span></a>
-            <a href="#"><span class="icon-linkedin text-primary-custom"></span></a>
+            <a href="https://www.facebook.com/colegioinbelem"><span class="icon-facebook text-primary-custom"></span></a>
+            <a href="https://www.instagram.com/colegioinbelem/"><span class="icon-instagram text-primary-custom"></span></a>
+            <a href="https://twitter.com/colegioinbelem"><span class="icon-twitter text-primary-custom"></span></a>
+            <a href="https://www.youtube.com/channel/UCR7Y_InglVoBNcZvag4_DxA"><span class="icon-youtube text-primary-custom"></span></a>
+            <a href="https://www.tiktok.com/@colegioinbelem?lang=pt-BR"><span class="icon-tiktok text-primary-custom"></span></a>
           </div>
         </div>
       </div>
@@ -66,10 +70,10 @@ const navBar = (`
 const footer = (`
 <div class="row">
           <div class="col-lg-4">
-            <h2 class="footer-heading text-secondary-custom mb-3">Endereço</h2>
-            <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-              there live the blind texts. </p>
-            <p>conta@contato.com</p>
+            <h2 class="footer-heading font-weight-bold text-secondary-custom mb-3">Endereço</h2>
+            <p class="address-text"><span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Nazaré</p>
+            <p class="mb-5 address-text"><span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Nazaré </p>
+            <p>contato@colegioin.com</p>
 
           </div>
           <div class="col-lg-8 ml-auto">
@@ -84,9 +88,11 @@ const footer = (`
               </div>
               <div class="col-lg-4 ml-auto">
                 <h2 class="footer-heading text-secondary-custom mb-4">Redes sociais</h2>
-               <span class="icon-facebook text-white mr-2"></span>
-               <span class="icon-instagram text-white mx-2"></span>
-               <span class="icon-linkedin text-white ml-2"></span>
+               <a href="https://www.facebook.com/colegioinbelem"><span class="icon-facebook text-white mr-2"></span></a>
+               <a href="https://www.instagram.com/colegioinbelem/"><span class="icon-instagram text-white mx-2"></span></a>
+               <a href="https://twitter.com/colegioinbelem"><span class="icon-twitter text-white ml-2"></span></a>
+               <a href="https://www.youtube.com/channel/UCR7Y_InglVoBNcZvag4_DxA"><span class="icon-youtube text-white ml-2"></span></a>
+               <a href="https://www.tiktok.com/@colegioinbelem?lang=pt-BR"><span class="icon-tiktok text-white ml-2"></span></a>
 
               </div>
 
@@ -99,8 +105,20 @@ const footer = (`
         
 `);
 
+const cta = (`
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-12 d-flex">
+      <h2 class="text-primary-custom m-0 font-weight-bold">Converse com o time In</h2>
+      <a href="https://api.whatsapp.com/send?phone=5591985430562" class="btn bg-primary-custom text-white btn-custom-1 py-3 px-3 ml-auto font-weight-bold d-flex justify-content-between"><span class="icon-whatsapp font-weight-bold mr-2" style="font-size: 1.2rem;"></span> Entre em contato</a>
+    </div>
+  </div>
+</div>
+`);
+
 const navbarContainer = $('#navbar-container');
 const footerContainer = $('#footer-container');
+const ctaContainer = $('#cta-container');
 
 const includeComponent = (component, container) => {
     container.append(component);
@@ -109,4 +127,5 @@ const includeComponent = (component, container) => {
 $(() => {
     includeComponent(navBar, navbarContainer);
     includeComponent(footer, footerContainer);
+    includeComponent(cta, ctaContainer);
 })

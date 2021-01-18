@@ -37,3 +37,23 @@ p {
 .package .package__title {
     font-size: 1.5rem;
 }
+
+
+/*
+# Home
+*/
+
+/* Banner */
+
+.site-section-cover .banner__title {
+font-size: 2.5rem;
+}
+
+.banner__subtitle {
+    font-size: 2rem;
+}
+
+/* Footer */ 
+.address-text {
+    font-size: 1rem;
+}
