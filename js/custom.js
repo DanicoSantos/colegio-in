@@ -15,7 +15,7 @@ const navBar = (`
       <div class="container mb-3">
         <div class="d-flex align-items-center">
           <div class="site-logo mr-auto">
-            <a href="#"><img src="images/logo-negative.png" width="80"/></a>
+            <a href="index.html"><img src="images/logo-negative.png" width="80"/></a>
           </div>
           <div class="site-quick-contact d-none d-lg-flex ml-auto ">
             <div class="d-flex site-info align-items-center mr-5">
@@ -53,7 +53,7 @@ const navBar = (`
             </ul>
           </nav>
 
-          <div class="top-social ml-auto">
+          <div class="top-social ml-auto d-none d-sm-block">
             <a href="https://www.facebook.com/colegioinbelem"><span class="icon-facebook text-primary-custom"></span></a>
             <a href="https://www.instagram.com/colegioinbelem/"><span class="icon-instagram text-primary-custom"></span></a>
             <a href="https://twitter.com/colegioinbelem"><span class="icon-twitter text-primary-custom"></span></a>
