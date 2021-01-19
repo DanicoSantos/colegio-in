@@ -49,8 +49,8 @@ p {
 font-size: 2.5rem;
 }
 
-.banner__subtitle {
-    font-size: 2rem;
+.site-section-cover .banner__subtitle {
+    font-size: 1.2rem;
 }
 
 /* Footer */ 

@@ -20,7 +20,9 @@ const navBar = (`
           <div class="site-quick-contact d-none d-lg-flex ml-auto ">
             <div class="d-flex site-info align-items-center mr-5">
               <span class="block-icon mr-3"><span class="icon-map-marker text-secondary-custom"></span></span>
-              <span>Endereço <br> Belém - Pará</span>
+              <span>Endereço <br> <span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Nazaré <br>
+              <span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Nazaré
+              </span>
             </div>
             <div class="d-flex site-info align-items-center">
               <span class="block-icon  mr-3"><span class="text-secondary-custom icon-clock-o"></span></span>
