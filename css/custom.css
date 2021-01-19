@@ -57,3 +57,8 @@ font-size: 2.5rem;
 .address-text {
     font-size: 1rem;
 }
+
+.tiktok-icon {
+    background-image: url(../images/tik-tok.svg) no-repeat center center;
+    width: 20px;
+}
