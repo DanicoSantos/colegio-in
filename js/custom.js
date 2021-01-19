@@ -20,8 +20,8 @@ const navBar = (`
           <div class="site-quick-contact d-none d-lg-flex ml-auto ">
             <div class="d-flex site-info align-items-center mr-5">
               <span class="block-icon mr-3"><span class="icon-map-marker text-secondary-custom"></span></span>
-              <span>Endereço <br> <span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Nazaré <br>
-              <span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Nazaré
+              <span>Endereço <br> <span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Batista Campos <br>
+              <span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Batista Campos
               </span>
             </div>
             <div class="d-flex site-info align-items-center">
@@ -73,8 +73,8 @@ const footer = (`
 <div class="row">
           <div class="col-lg-4">
             <h2 class="footer-heading font-weight-bold text-secondary-custom mb-3">Endereço</h2>
-            <p class="address-text"><span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Nazaré</p>
-            <p class="mb-5 address-text"><span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Nazaré </p>
+            <p class="address-text"><span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Batista Campos</p>
+            <p class="mb-5 address-text"><span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Batista Campos </p>
             <p>contato@colegioin.com</p>
 
           </div>
