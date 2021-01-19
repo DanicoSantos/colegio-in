@@ -110,9 +110,10 @@ const footer = (`
 const cta = (`
 <div class="container">
   <div class="row justify-content-center">
-    <div class="col-md-12 d-flex">
-      <h2 class="text-primary-custom m-0 font-weight-bold">Converse com o time In</h2>
-      <a href="https://api.whatsapp.com/send?phone=5591985430562" class="btn bg-primary-custom text-white btn-custom-1 py-3 px-3 ml-auto font-weight-bold d-flex justify-content-between"><span class="icon-whatsapp font-weight-bold mr-2" style="font-size: 1.2rem;"></span> Entre em contato</a>
+    <div class="col-md-12 d-flex justify-content-center">
+      <a href="https://api.whatsapp.com/send?phone=5591985430562" 
+      class="btn bg-primary-custom text-white btn-custom-1 py-3 px-3 font-weight-bold d-flex justify-content-between">
+      <span class="icon-whatsapp font-weight-bold mr-2" style="font-size: 1.2rem;"></span> Converse com o time In</a>
     </div>
   </div>
 </div>
