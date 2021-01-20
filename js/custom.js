@@ -10,7 +10,15 @@ const navBar = (`
 
 
 
-    <header class="site-navbar site-navbar-target" role="banner">
+    <header class="site-navbar site-navbar-target pt-0 px-0" role="banner">
+
+    <div class="container-fluid px-0 pb-2">
+    <nav class="navbar">
+  <a href="#" target="_blank" class="btn d-flex align-item-center bg-primary-custom ml-auto text-white">
+  <i class="icon-download pt-1 pr-1"></i>Diretrizes de Biossegurança</a>
+    
+</nav>
+    </div>
 
       <div class="container mb-3">
         <div class="d-flex align-items-center">
@@ -124,11 +132,11 @@ const footerContainer = $('#footer-container');
 const ctaContainer = $('#cta-container');
 
 const includeComponent = (component, container) => {
-    container.append(component);
+  container.append(component);
 }
 
 $(() => {
-    includeComponent(navBar, navbarContainer);
-    includeComponent(footer, footerContainer);
-    includeComponent(cta, ctaContainer);
+  includeComponent(navBar, navbarContainer);
+  includeComponent(footer, footerContainer);
+  includeComponent(cta, ctaContainer);
 })

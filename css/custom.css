@@ -62,3 +62,14 @@ font-size: 2.5rem;
     background-image: url(../images/tik-tok.svg) no-repeat center center;
     width: 20px;
 }
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    background:#8AC6C1;
+    color: #f2f2f2;
+}
