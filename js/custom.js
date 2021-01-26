@@ -59,7 +59,7 @@ const navBar = (`
             <ul class="site-menu main-menu js-clone-nav mr-auto ">
               <li class=""><a href="index.html" class="nav-link">Início</a></li>
               <li><a href="about.html" class="nav-link">Conheça o In</a></li>
-              <li><a href="team.html" class="nav-link">Professores</a></li>
+              <li><a href="team.html" class="nav-link">Staff</a></li>
               <li><a href="#" class="nav-link">Portal In</a></li>
 
 
@@ -94,8 +94,8 @@ const footer = (`
               <div class="col-lg-4 ml-auto">
                 <h2 class="footer-heading  mb-4 text-secondary-custom">Navegação</h2>
                 <ul class="list-unstyled">
-                  <li><a href="about">Conheça o In</a></li>
-                  <li><a href="team">Professores</a></li>
+                  <li><a href="about.html">Conheça o In</a></li>
+                  <li><a href="team.html">Staff</a></li>
                   <li><a href="/">Portal In</a></li>
                 </ul>
               </div>
