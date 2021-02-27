@@ -14,11 +14,11 @@ const navBar = (`
 
     <div class="container-fluid px-0 pb-2">
     <nav class="navbar">
-  <a href="#" target="_blank" class="btn d-none d-sm-flex align-items-center bg-primary-custom ml-auto text-white">
-  <i class="icon-download pr-1"></i>Diretrizes de Biossegurança</a>
+  <a href="Book-In.pdf" target="_blank" class="btn d-none d-sm-flex align-items-center bg-primary-custom ml-auto text-white">
+  <i class="icon-download pr-1"></i>Book In</a>
 
-  <a href="#" target="_blank" class="btn d-flex align-items-center d-sm-none bg-primary-custom ml-auto text-white">
-  <i class="icon-download"></i>Diretrizes de Biossegurança</a>
+  <a href="Book-In.pdf" target="_blank" class="btn d-flex align-items-center d-sm-none bg-primary-custom ml-auto text-white">
+  <i class="icon-download"></i>Book In</a>
     
 </nav>
     </div>
