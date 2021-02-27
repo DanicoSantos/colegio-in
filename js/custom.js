@@ -60,7 +60,7 @@ const navBar = (`
               <li class=""><a href="index.html" class="nav-link">Início</a></li>
               <li><a href="about.html" class="nav-link">Conheça o In</a></li>
               <li><a href="team.html" class="nav-link">Staff</a></li>
-              <li><a href="http://portalweb.colegioin.com/FrameHTML/Web/App/Edu/PortalEducacional/login/?sessaoexpirada=true" class="nav-link">Portal In</a></li>
+              <li><a href="http://portalweb.colegioin.com/FrameHTML/Web/App/Edu/PortalEducacional/login/?sessaoexpirada=true" class="nav-link" target="_blank">Portal In</a></li>
 
 
             </ul>
