@@ -97,6 +97,8 @@ const footer = (`
                   <li><a href="about.html">Conheça o In</a></li>
                   <li><a href="team.html">Staff</a></li>
                   <li><a href="https://portalweb.colegioin.com/FrameHTML/web/app/Edu/PortalEducacional/login/">Portal In</a></li>
+                  <li><a href="https://portalweb.colegioin.com/FrameHTML/Web/App/Edu/PortalDoProfessor/">Portal do Professor</a></li>
+                  <li><a href="https://portalweb.colegioin.com/FrameHTML/web/app/RH/PortalMeuRH/#/login">Portal do Colaborador</a></li>
                 </ul>
               </div>
               <div class="col-lg-4 ml-auto">
