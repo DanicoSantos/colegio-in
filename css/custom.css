@@ -45,6 +45,10 @@ p {
 
 /* Banner */
 
+.banner-cta {
+    background-image: url('../images/banner-cta.jpg');
+}
+
 .site-section-cover {
     background-position: center 2rem;
 }
@@ -58,8 +62,8 @@ font-size: 2.5rem;
 }
 
 @media (max-width: 400px) {
-    .site-section-cover {
-        background-position: -45rem center;
+    .banner-cta {
+        background-image: url('../images/banner-cta-mobile.jpg');
     }
     
 }
