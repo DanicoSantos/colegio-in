@@ -60,7 +60,7 @@ const navBar = (`
               <li class=""><a href="index.html" class="nav-link">Início</a></li>
               <li><a href="about.html" class="nav-link">Conheça o In</a></li>
               <li><a href="team.html" class="nav-link">Staff</a></li>
-              <li><a href="https://portalweb.colegioin.com/FrameHTML/web/app/Edu/PortalEducacional/login/" class="nav-link">Portal In</a></li>
+              <li><a href="https://portalweb.colegioin.com/FrameHTML/web/app/Edu/PortalEducacional/login/" class="nav-link">Portal do Aluno</a></li>
 
 
             </ul>
@@ -96,7 +96,7 @@ const footer = (`
                 <ul class="list-unstyled">
                   <li><a href="about.html">Conheça o In</a></li>
                   <li><a href="team.html">Staff</a></li>
-                  <li><a href="https://portalweb.colegioin.com/FrameHTML/web/app/Edu/PortalEducacional/login/">Portal In</a></li>
+                  <li><a href="https://portalweb.colegioin.com/FrameHTML/web/app/Edu/PortalEducacional/login/">Portal do Aluno</a></li>
                   <li><a href="https://portalweb.colegioin.com/FrameHTML/Web/App/Edu/PortalDoProfessor/">Portal do Professor</a></li>
                   <li><a href="https://portalweb.colegioin.com/FrameHTML/web/app/RH/PortalMeuRH/#/login">Portal do Colaborador</a></li>
                 </ul>
