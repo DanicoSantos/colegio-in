@@ -24,17 +24,27 @@ const navBar = (`
     </div>
 
       <div class="container mb-3">
-        <div class="d-flex align-items-center">
+        <div class="d-flex align-items-center justify-content-between">
           <div class="site-logo mr-auto">
             <a href="index.html"><img src="images/logo-negative.png" width="80"/></a>
           </div>
-          <div class="site-quick-contact d-none d-lg-flex ml-auto ">
+          <div class="site-quick-contact d-none d-lg-flex">
             <div class="d-flex site-info align-items-center mr-5">
-              <span class="block-icon mr-3"><span class="icon-map-marker text-secondary-custom"></span></span>
-              <span>Endereço <br> <span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Batista Campos <br>
-              <span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Batista Campos
-              </span>
+            <span class="block-icon  mr-3"><span class="text-secondary-custom icon-mobile"></span></span>
+            <span>Contato <br>
+            (91) 98553-5155
+            
+            </span>
             </div>
+
+            <div class="d-flex site-info align-items-center mr-5">
+            <span class="block-icon  mr-3"><span class="text-secondary-custom icon-whatsapp"></span></span>
+            <span>Whatsapp <br>
+            (91) 98543-0562
+            
+            </span>
+            </div>
+            
             <div class="d-flex site-info align-items-center">
               <span class="block-icon  mr-3"><span class="text-secondary-custom icon-clock-o"></span></span>
               <span>Segunda à Sexta das 7h às 18h <br> 
