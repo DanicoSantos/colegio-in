@@ -86,6 +86,7 @@ const footer = (`
             <h2 class="footer-heading font-weight-bold text-secondary-custom mb-3">Endereço</h2>
             <p class="address-text"><span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Batista Campos</p>
             <p class="mb-5 address-text"><span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Batista Campos </p>
+            <p class="mb-0">Fone: (91) 98553-5155</p>
             <p>contato@colegioin.com</p>
 
           </div>
