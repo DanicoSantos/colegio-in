@@ -90,19 +90,23 @@ const navBar = (`
 
     </header>
 `);
-const footer = (`
+const footer = `
 <div class="row">
-          <div class="col-lg-4">
+          <div class="col-lg-6">
             <h2 class="footer-heading font-weight-bold text-secondary-custom mb-3">Endereço</h2>
-            <p class="address-text"><span class="font-weight-bold">Colégio In</span> - Avenida Gentil Bittencourt, 436 - Batista Campos</p>
-            <p class="mb-5 address-text"><span class="font-weight-bold">In Pré-vestibular e Cursos</span> -  Avenida Gentil Bittencourt, 439 - Batista Campos </p>
-            <p class="mb-0">Fone: (91) 98553-5155</p>
-            <p>contato@colegioin.com</p>
+            <p class="address-text"><span class="font-weight-bold">Ensino Fundamental II e Cursos Específicos - Unidade IN Gentil</span> - Av. Gentil Bittencourt, 439. (entre Tv. Dr. Moraes e  Tv. Benjamin Constant)</p>
+            <p class="mb-2 address-text">Fone: <span class="icon-whatsapp"></span> (91)98543-0562 / (91)98596-2462 / (91)97400-6207
+Agende sua visita</p>
+            <p class="mb-2 address-text"><span class="font-weight-bold">
+Ensino Médio e Pré-vestibular - Complexo Educacional IN</span> - Av. Gov. José Malcher, 1332. (entre Tv. 14 de Março e Av. Generalíssimo Deodoro) </p>
+            <p class="address-text mb-5">Fone: (91) 98543-0562 / (91) 98553-5155 / (91) 97400-6177
+Agende sua visita</p>
+            <p class="address-text">contato@colegioin.com</p>
 
           </div>
-          <div class="col-lg-8 ml-auto">
+          <div class="col-lg-6 ml-auto">
             <div class="row">
-              <div class="col-lg-4 ml-auto">
+              <div class="col-lg-6 ml-auto">
                 <h2 class="footer-heading  mb-4 text-secondary-custom">Navegação</h2>
                 <ul class="list-unstyled">
                   <li><a href="about.html">Conheça o In</a></li>
@@ -112,7 +116,7 @@ const footer = (`
                   <li><a href="https://portalweb.colegioin.com/FrameHTML/web/app/RH/PortalMeuRH/#/login">Portal do Colaborador</a></li>
                 </ul>
               </div>
-              <div class="col-lg-4 ml-auto">
+              <div class="col-lg-6 ml-auto">
                 <h2 class="footer-heading text-secondary-custom mb-4">Redes sociais</h2>
                <a href="https://www.facebook.com/colegioinbelem"><span class="icon-facebook text-white mr-2"></span></a>
                <a href="https://www.instagram.com/colegioinbelem/"><span class="icon-instagram text-white mx-2"></span></a>
@@ -129,7 +133,7 @@ const footer = (`
           </div>
         </div>
         
-`);
+`;
 
 const cta = (`
 <div class="container">
