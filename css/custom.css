@@ -60,6 +60,8 @@ font-size: 2.5rem;
     position: absolute;
     top: 45%;
     right: 22%;
+    background: #38166085;
+    padding: 2rem;
 }
 @media (max-width: 400px) {
     .site-section-cover .owl-carousel figcaption {
