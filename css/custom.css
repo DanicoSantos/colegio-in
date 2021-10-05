@@ -60,16 +60,17 @@ font-size: 2.5rem;
     position: absolute;
     top: 45%;
     right: 22%;
-    background: #38166085;
+    background: #66c6c17a;
     padding: 2rem;
 }
 @media (max-width: 400px) {
     .site-section-cover .owl-carousel figcaption {
-        right: unset;
-        top: unset;
-        bottom: 2rem;
-        left: 5rem;
-}
+        right: 0;
+        left: 0;
+        top: 60%;
+        display: flex;  
+        background: #3816606c;      
+  }
 }
 
 /* Footer */ 
