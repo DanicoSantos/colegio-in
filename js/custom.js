@@ -95,14 +95,12 @@ const footer = `
           <div class="col-lg-6">
             <h2 class="footer-heading font-weight-bold text-secondary-custom mb-3">Endereço</h2>
             <p class="address-text mb-2"><span class="font-weight-bold">Ensino Fundamental II e Cursos Específicos - Unidade IN Gentil</span> <br> Av. Gentil Bittencourt, 439. (entre Tv. Dr. Moraes e  Tv. Benjamin Constant)</p>
-            <p class="mb-0 address-text">Fone: <span class="icon-whatsapp"></span> (91) 98543-0562 / (91) 98596-2462 / (91) 97400-6207
+            <p class="mb-0 address-text">(91) 98543-0562 / (91) 98596-2462 / (91) 97400-6207
 </p>
-            <p class="mb-4 address-text">Agende sua visita</p>
             <p class="mb-2 address-text"><span class="font-weight-bold">
 Ensino Médio e Pré-vestibular - Complexo Educacional IN</span> <br> Av. Gov. José Malcher, 1332. (entre Tv. 14 de Março e Av. Generalíssimo Deodoro) </p>
-            <p class="address-text mb-0">Fone: (91) 98543-0562 / (91) 98553-5155 / (91) 97400-6177
+            <p class="address-text mb-0">(91) 98543-0562 / (91) 98553-5155 / (91) 97400-6177
 </p>
-            <p class="mb-5 address-text">Agende sua visita</p>
             <p class="address-text">contato@colegioin.com</p>
 
           </div>
