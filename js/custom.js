@@ -101,7 +101,6 @@ const footer = `
 Ensino Médio e Pré-vestibular - Complexo Educacional IN</span> <br> Av. Gov. José Malcher, 1332. (entre Tv. 14 de Março e Av. Generalíssimo Deodoro) </p>
             <p class="address-text mb-0">(91) 98543-0562 / (91) 98553-5155 / (91) 97400-6177
 </p>
-            <p class="address-text">contato@colegioin.com</p>
 
           </div>
           <div class="col-lg-5 ml-auto">
@@ -129,6 +128,17 @@ Ensino Médio e Pré-vestibular - Complexo Educacional IN</span> <br> Av. Gov. J
 
 
 
+            </div>
+          </div>
+        </div>
+
+        <div class="row mt-md-5">            
+          <div class="col-md-4">
+            <div class="d-md-flex align-items-center" style="height: 100%;"><p class="address-text m-0">contato@colegioin.com</p></div>
+          </div>
+          <div class="offset-md-5 col-md-3">
+            <div class="d-md-flex justify-content-center align-items-center">
+              <a href="https://api.whatsapp.com/send?phone=5591985430562" title="Whatsapp"><span class="icon-whatsapp text-secondary-custom display-4 m-0 p-0"></span></a>
             </div>
           </div>
         </div>
