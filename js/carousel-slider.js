@@ -7,7 +7,7 @@ $(document).ready(function () {
     lazyLoad: true,
     autoplay: true,
     center: true,
-    autoplayTimeout: 7000,
+    autoplayTimeout: 10000,
     merge: true,
     animateOut: 'fadeOut',
   });
