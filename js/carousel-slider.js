@@ -7,9 +7,8 @@ $(document).ready(function () {
     lazyLoad: true,
     autoplay: true,
     center: true,
-    slideTransition: `ease`,
-    smartSpeed: 500,
-    autoplaySpeed: 3000,
+    autoplayTimeout: 7000,
     merge: true,
+    animateOut: 'fadeOut',
   });
 });

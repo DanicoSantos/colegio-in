@@ -63,6 +63,16 @@ font-size: 2.5rem;
     background: #66c6c17a;
     padding: 2rem;
 }
+
+.site-section-cover .owl-theme .owl-nav [class*=owl-] {
+    color: #381660;
+    z-index: 999999;
+}
+
+.site-section {
+    position: relative;
+    z-index: 0;
+}
 @media (max-width: 400px) {
     .site-section-cover .owl-carousel figcaption {
         right: 0;
