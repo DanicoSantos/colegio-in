@@ -1,4 +1,4 @@
-const navBar = (`
+const navBar = `
 <div class="site-mobile-menu site-navbar-target">
       <div class="site-mobile-menu-header">
         <div class="site-mobile-menu-close mt-3">
@@ -32,7 +32,7 @@ const navBar = (`
             <div class="d-flex site-info align-items-center mr-5">
             <span class="block-icon  mr-3"><span class="text-secondary-custom icon-mobile"></span></span>
             <span>Contato <br>
-            (91) 98553-5155
+            (91) 98415-4563
             
             </span>
             </div>
@@ -40,7 +40,7 @@ const navBar = (`
             <div class="d-flex site-info align-items-center mr-5">
             <span class="block-icon  mr-3"><span class="text-secondary-custom icon-whatsapp"></span></span>
             <span>Whatsapp <br>
-            (91) 98543-0562
+            (91) 97400-6177
             
             </span>
             </div>
@@ -89,17 +89,17 @@ const navBar = (`
 
 
     </header>
-`);
+`;
 const footer = `
 <div class="row">
           <div class="col-lg-6">
             <h2 class="footer-heading font-weight-bold text-secondary-custom mb-3">Endereço</h2>
             <p class="address-text mb-2"><span class="font-weight-bold">Ensino Fundamental II e Cursos Específicos - Unidade IN Gentil</span> <br> Av. Gentil Bittencourt, 439. (entre Tv. Dr. Moraes e  Tv. Benjamin Constant)</p>
-            <p class="mb-0 address-text">(91) 98543-0562 / (91) 98596-2462 / (91) 97400-6207
+            <p class="mb-4 address-text">(91) 97400-6846 - Whatsapp / (91) 98596-2462 - Ligação
 </p>
             <p class="mb-2 address-text"><span class="font-weight-bold">
 Ensino Médio e Pré-vestibular - Complexo Educacional IN</span> <br> Av. Gov. José Malcher, 1332. (entre Tv. 14 de Março e Av. Generalíssimo Deodoro) </p>
-            <p class="address-text mb-0">(91) 98543-0562 / (91) 98553-5155 / (91) 97400-6177
+            <p class="address-text mb-0">(91) 97400-6177 - Whatsapp / (91) 98415-4563 - Ligação 
 </p>
 
           </div>
@@ -138,7 +138,7 @@ Ensino Médio e Pré-vestibular - Complexo Educacional IN</span> <br> Av. Gov. J
           </div>
           <div class="offset-md-5 offset-0 col-12 col-md-3">
             <div class="d-flex justify-content-center mt-4 mt-md-0 align-items-center" >
-              <a href="https://api.whatsapp.com/send?phone=5591985430562" title="Whatsapp">
+              <a href="https://api.whatsapp.com/send?phone=5591974006177" title="Whatsapp">
               <span class="icon-whatsapp text-secondary-custom display-4 m-0 p-0"></span>
               </a>
             </div>
