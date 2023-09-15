@@ -73,7 +73,7 @@ font-size: 2.5rem;
     position: relative;
     z-index: 0;
 }
-@media (max-width: 400px) {
+@media (max-width: 720px) {
     .site-section-cover .owl-carousel figcaption {
         right: 0;
         left: 0;
