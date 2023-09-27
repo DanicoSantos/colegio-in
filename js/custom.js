@@ -94,14 +94,11 @@ const footer = `
 <div class="row">
           <div class="col-lg-6">
             <h2 class="footer-heading font-weight-bold text-secondary-custom mb-3">Endereço</h2>
-            <p class="address-text mb-2"><span class="font-weight-bold">Ensino Fundamental II - Regular e Semi-integral - Unidade IN Gentil</span> <br> Av. Gentil Bittencourt, 439. (entre Tv. Dr. Moraes e  Tv. Benjamin Constant)</p>
+            <p class="address-text mb-2"><span class="font-weight-bold">Ensino Fundamental II, Ensino Médio, Pré-vestibular e Cursos Específicos</span> <br> Av. Gov. José Malcher, 1332. (entre Tv. 14 de Março e Av. Generalíssimo Deodoro)</p>
             <p class="mb-4 address-text">(91) 97400-6846 - Whatsapp / (91) 98596-2462 - Ligação
 </p>
-            <p class="mb-2 address-text"><span class="font-weight-bold">
-            Ensino Médio, Pré-vestibular e Cursos Específicos - Complexo Educacional IN</span> <br> Av. Gov. José Malcher, 1332. (entre Tv. 14 de Março e Av. Generalíssimo Deodoro) </p>
-            <p class="address-text mb-0">(91) 97400-6177 - Whatsapp / (91) 98415-4563 - Ligação 
-</p>
-
+            
+          
           </div>
           <div class="col-lg-5 ml-auto">
             <div class="row">
@@ -151,7 +148,7 @@ const cta = (`
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-12 d-flex justify-content-center">
-      <a href="https://api.whatsapp.com/send?phone=5591985430562" 
+      <a href="https://api.whatsapp.com/send?phone=559174006177" 
       class="btn bg-primary-custom text-white btn-custom-1 py-3 px-3 font-weight-bold d-flex justify-content-between">
       <span class="icon-whatsapp font-weight-bold mr-2" style="font-size: 1.2rem;"></span> Converse com o time In</a>
     </div>
