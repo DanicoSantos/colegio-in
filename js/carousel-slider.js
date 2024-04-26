@@ -8,7 +8,7 @@ $(document).ready(function () {
     autoplay: true,
     center: true,
     autoplayTimeout: 10000,
-    autoplaySpeed: 8000,
+    autoplaySpeed: 10000,
     merge: true,
     animateOut: 'fadeOut',
   });
