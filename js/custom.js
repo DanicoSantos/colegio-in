@@ -12,16 +12,7 @@ const navBar = `
 
     <header class="site-navbar site-navbar-target pt-0 px-0" role="banner">
 
-    <div class="container-fluid px-0 pb-2">
-    <nav class="navbar">
-  <a href="Book-In.pdf" target="_blank" class="btn d-none d-sm-flex align-items-center bg-primary-custom ml-auto text-white">
-  <i class="icon-download pr-1"></i>Diretrizes de Biossegurança</a>
-
-  <a href="Book-In.pdf" target="_blank" class="btn d-flex align-items-center d-sm-none bg-primary-custom ml-auto text-white">
-  <i class="icon-download"></i>Diretrizes de Biossegurança</a>
     
-</nav>
-    </div>
 
       <div class="container mb-3">
         <div class="d-flex align-items-center justify-content-between">
@@ -31,19 +22,13 @@ const navBar = `
           <div class="site-quick-contact d-none d-lg-flex">
             <div class="d-flex site-info align-items-center mr-5">
             <span class="block-icon  mr-3"><span class="text-secondary-custom icon-mobile"></span></span>
-            <span>Contato <br>
-            (91) 98415-4563
+            <span>Entre em contato conosco: <br>
+            (91) 98415-4563 | (91) 97400-6177
             
             </span>
             </div>
 
-            <div class="d-flex site-info align-items-center mr-5">
-            <span class="block-icon  mr-3"><span class="text-secondary-custom icon-whatsapp"></span></span>
-            <span>Whatsapp <br>
-            (91) 97400-6177
             
-            </span>
-            </div>
             
             <div class="d-flex site-info align-items-center">
               <span class="block-icon  mr-3"><span class="text-secondary-custom icon-clock-o"></span></span>
